@@ -57,3 +57,10 @@ My goal is to to delve into the extensive dataset of NYC traffic collisions and 
 |     15 |             124731 |
 |     18 |             123845 |
 ---
+| Vehicle Type                        |   Total Collisions |
+|:------------------------------------|-------------------:|
+| PASSENGER VEHICLE                   |             306097 |
+| Sedan                               |             213490 |
+| Station Wagon/Sport Utility Vehicle |             159679 |
+| SPORT UTILITY / STATION WAGON       |             132435 |
+| TAXI                                |              28044 |
