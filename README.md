@@ -49,6 +49,7 @@ My goal is to to delve into the extensive dataset of NYC traffic collisions and 
 | BRONX         |                 10676 |               3340 |               35784 |
 | STATEN ISLAND |                  1870 |                382 |               11548 |
 ---
+Top 5 hours with the most collisions in New York City
 |   Hour |   Total Collisions |
 |-------:|-------------------:|
 |     16 |             144106 |
@@ -57,6 +58,7 @@ My goal is to to delve into the extensive dataset of NYC traffic collisions and 
 |     15 |             124731 |
 |     18 |             123845 |
 ---
+Top 5 vehicles with the most collisions in New York City
 | Vehicle Type                        |   Total Collisions |
 |:------------------------------------|-------------------:|
 | PASSENGER VEHICLE                   |             306097 |
@@ -64,3 +66,12 @@ My goal is to to delve into the extensive dataset of NYC traffic collisions and 
 | Station Wagon/Sport Utility Vehicle |             159679 |
 | SPORT UTILITY / STATION WAGON       |             132435 |
 | TAXI                                |              28044 |
+---
+Top 5 Contributing Factor
+| Factor                         |   Total Collisions |
+|:-------------------------------|-------------------:|
+| Unspecified                    |             423164 |
+| Driver Inattention/Distraction |             184686 |
+| Failure to Yield Right-of-Way  |              73377 |
+| Other Vehicular                |              33987 |
+| Backing Unsafely               |              32668 |
